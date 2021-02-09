@@ -1,8 +1,7 @@
 ## iOS Tech Interview > Swift
 
-- [`Classes and Structs`](Resources/Swift/Classes_and_Structs/Resources.md)	
-- [`Reference and Value types`](Resources/Swift/Classes_and_Structs/Resources.md)
-
+- [`Classes and Structs`](Classes_and_Structs/Resources.md)	
+- [`Reference and Value types`](Reference_and_Value_types/Resources.md)
 
 ### Books
 - [The Swift Programming Language](https://geo.itunes.apple.com/us/book/the-swift-programming-language-swift-4-1/id881256329?mt=11)
