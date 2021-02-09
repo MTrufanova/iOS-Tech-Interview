@@ -28,7 +28,6 @@ Questions and answers to the most common technical issues in iOS development.
 		- [`Synchronization `](Resources/Swift/Multithreading/README.md#synchronization)
 		- [`Singleton`](Resources/Swift/Multithreading/README.md#singleton)
 		- [`Problems`](Resources/Swift/Multithreading/README.md#problems)
-		
 			- [`Race condition`](Resources/Swift/Multithreading/README.md#race-condition)
 			- [`Deadlock`](Resources/Swift/Multithreading/README.md#deadlock)
 			- [`Readers–writers problem`](Resources/Swift/Multithreading/README.md#readerswriters-problem)
