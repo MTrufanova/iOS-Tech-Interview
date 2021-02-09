@@ -5,7 +5,7 @@ Questions and answers to the most common technical issues in iOS development.
 - `Swift`
 	- [`let and var`](Resources/Swift/Classes_and_Structs/README.md)
 
-	- [`Types`](Resources/Swift/Types/README.md)
+	- [`Types and memory`](Resources/Swift/Types/README.md)
 
 		- [`Reference and Value types`](Resources/Swift/Types/README.md#reference-and-value-types)
 		- [`Stack and Heap`](Resources/Swift/Types/README.md#stack-and-heap)
@@ -20,3 +20,13 @@ Questions and answers to the most common technical issues in iOS development.
 		- [`Array`](Resources/Swift/Data_structures/README.md#array)
 		- [`Dictionary`](Resources/Swift/Data_structures/README.md#dictionary)
 		- [`Set`](Resources/Swift/Data_structures/README.md#set)
+
+	- [`Multithreading`](Resources/Swift/Multithreading/README.md)
+		- [`GCD`](Resources/Swift/Multithreading/README.md#array)
+		- [`NSOperation`](Resources/Swift/Multithreading/README.md#dictionary)
+		- [`RunLoop`](Resources/Swift/Multithreading/README.md#set)
+		- [`Synchronization`](Resources/Swift/Multithreading/README.md#set)
+		- [`Problems`](Resources/Swift/Multithreading/README.md#set)
+			- [`Race condition`](Resources/Swift/Multithreading/README.md#set)
+			- [`Deadlock`](Resources/Swift/Multithreading/README.md#set)
+			- [`Readers–writers problem`](Resources/Swift/Multithreading/README.md#set)
