@@ -59,6 +59,10 @@ The key point is the UIApplicationMain() function. This method will set an NSRun
 
 [more](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Multithreading/ThreadSafety/ThreadSafety.html)
 
+## Singleton
+
+The Singleton design pattern ensures that only one instance exists for a given class and that there’s a global access point to that instance. It usually uses lazy loading to create the single instance when it’s needed the first time.
+
 ## Problems
 
 [more](https://austingwalters.com/multithreading-common-pitfalls/)
